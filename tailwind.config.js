@@ -16,7 +16,12 @@ module.exports = {
         blueLight: '#9EC5FA',
         pinkLight: '#FEF0F6',
         orangeLight: '#FAEBBD',
-        greenLight: '#A6D5BA'
+        greenLight: '#A6D5BA',
+        textSecondary: '#7B7D86',
+        textPrimary: '#000000',
+        bgSecondary: '#F9F9F9',
+        titleColor: '#A5A2A2',
+        statusColor: '#F6F6F6'
 
       }
     }
