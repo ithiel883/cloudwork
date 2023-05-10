@@ -10,7 +10,9 @@ export const state = () => ({
         location: 'Home',
         department: 'D4',
         status: 'On break',
-        image: 'https://whitesmith-chat.web.app/_nuxt/img/user1.fce9ef9.png'
+        image: 'https://whitesmith-chat.web.app/_nuxt/img/user1.fce9ef9.png',
+        isOnline: true
+
       },
       {
         name: 'Darrell Steward',
@@ -36,7 +38,9 @@ export const state = () => ({
         location: 'Home',
         department: 'D2',
         status: '',
-        image: 'https://whitesmith-chat.web.app/_nuxt/img/user3.dcd97b6.png'
+        image: 'https://whitesmith-chat.web.app/_nuxt/img/user3.dcd97b6.png',
+        isOnline: true
+
       },
       {
         name: 'Arlene McCoy',
