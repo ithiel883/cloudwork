@@ -45,7 +45,7 @@ export const state = () => ({
         location: 'Office',
         department: 'D1',
         status: 'In a meeting',
-        image: 'hhttps://whitesmith-chat.web.app/_nuxt/img/user4.1956968.png'
+        image: 'https://whitesmith-chat.web.app/_nuxt/img/user4.1956968.png'
       },
       {
         name: 'Theresa Webb',
@@ -66,7 +66,9 @@ export const state = () => ({
         id: Math.random() * 2,
         role: 'IT',
         location: 'Home',
-        department: 'D1'
+        department: 'D1',
+        status: '',
+        isOnline: true
       }
     ]
   })
